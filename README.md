@@ -46,7 +46,7 @@ The condition if (rev > (INT_MAX - rem) / 10) ensures that there’s no overflow
 5.Palindrome Check:
 After the loop, the function checks if the original number (a) is equal to the reversed number (rev). If they are equal, it returns true (indicating a palindrome), otherwise, false.
 
-### Merge Sorted Array 
+### 3.Merge Sorted Array 
 
 ##### You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
 
