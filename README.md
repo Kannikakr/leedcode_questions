@@ -115,3 +115,15 @@ Given an integer n, return its complement.
 ### 12. Unique number of Occurrences 
 
 Given an array of integers arr, return true if the number of occurrences of each value in the array is unique or false otherwise.
+
+### 13. Find all duplicates in an array
+
+Given an integer array nums of length n where all the integers of nums are in the range [1, n] and each integer appears at most twice, return an array of all the integers that appears twice.
+
+You must write an algorithm that runs in O(n) time and uses only constant auxiliary space, excluding the space needed to store the output. 
+
+### 14. Move Zeroes 
+
+Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+
+Note that you must do this in-place without making a copy of the array.
