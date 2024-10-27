@@ -111,3 +111,7 @@ The complement of an integer is the integer you get when you flip all the 0's to
 
 For example, The integer 5 is "101" in binary and its complement is "010" which is the integer 2.
 Given an integer n, return its complement.
+
+### 12. Unique number of Occurrences 
+
+Given an array of integers arr, return true if the number of occurrences of each value in the array is unique or false otherwise.
