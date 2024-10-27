@@ -92,3 +92,15 @@ Given a positive integer n, find the pivot integer x such that:
 
 The sum of all elements between 1 and x inclusively equals the sum of all elements between x and n inclusively.
 Return the pivot integer x. If no such integer exists, return -1. It is guaranteed that there will be at most one pivot index for the given input.
+
+### 9. Power of Two
+
+Given an integer n, return true if it is a power of two. Otherwise, return false.
+
+An integer n is a power of two, if there exists an integer x such that n == 2x.
+
+### 10. Reverse interger 
+
+Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
+
+Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
