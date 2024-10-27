@@ -104,3 +104,10 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
 Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
 
 Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
+
+### 11. Complement of base 10 integer 
+
+The complement of an integer is the integer you get when you flip all the 0's to 1's and all the 1's to 0's in its binary representation.
+
+For example, The integer 5 is "101" in binary and its complement is "010" which is the integer 2.
+Given an integer n, return its complement.
