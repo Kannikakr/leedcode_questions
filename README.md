@@ -140,4 +140,14 @@ There may be duplicates in the original array.
 
 Note: An array A rotated by x positions results in an array B of the same length such that A[i] == B[(i+x) % A.length], where % is the modulo operation.
 
+### 17 : Spiral Matrix
+
+Given an m x n matrix, return all elements of the matrix in spiral order.
+
+### 18 :  Rotate Image
+
+You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
+
+You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
+
  
