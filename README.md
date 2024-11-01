@@ -162,3 +162,8 @@ You must write a solution in O(log(m * n)) time complexity.
 
  
  ### 20. Search a 2D matrix II 
+
+ Write an efficient algorithm that searches for a value target in an m x n integer matrix matrix. This matrix has the following properties:
+
+Integers in each row are sorted in ascending from left to right.
+Integers in each column are sorted in ascending from top to bottom.
