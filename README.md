@@ -200,3 +200,7 @@ Given a roman numeral, convert it to an integer.
 You must not use any built-in exponent function or operator.
 
 For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
+
+### 24. Counting Bits 
+
+Given an integer n, return an array ans of length n + 1 such that for each i (0 <= i <= n), ans[i] is the number of 1's in the binary representation of i. 
