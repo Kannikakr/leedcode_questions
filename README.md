@@ -204,3 +204,9 @@ For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
 ### 24. Counting Bits 
 
 Given an integer n, return an array ans of length n + 1 such that for each i (0 <= i <= n), ans[i] is the number of 1's in the binary representation of i. 
+
+### 25. Search Insert Position. 
+
+Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+
+You must write an algorithm with O(log n) runtime complexity.
