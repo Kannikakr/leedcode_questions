@@ -25,3 +25,22 @@ int birthdayCakeCandles(vector<int> candles) {
     }
     return count;
 }
+
+
+// one more method to solve this question is as follows 
+
+int birthdayCakeCandles(vector<int> candles) {
+    int maxi = candles[0];
+    int count = 1; // Start with the first candle
+    
+    for (int i = 1; i < candles.size(); i++) {
+        if (candles[i] > maxi) {
+            maxi = candles[i];
+            count = 1; // Reset count for the new maximum
+        } else if (candles[i] == maxi) {
+            count++; // Increment count if it matches the current maximum
+        }
+    }
+    
+    return count;
+}
